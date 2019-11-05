@@ -14,6 +14,7 @@ RUN dnf install -y \
 	mingw64-openssl-static \
 	mingw64-winpthreads-static \
 	mingw64-glew-static \
+	mingw64-wxWidgets3-static \
 	git \
 	sshpass \
 	wine-core \
