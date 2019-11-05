@@ -1,4 +1,4 @@
-FROM fedora:28
+FROM fedora:30
 RUN dnf install -y \
 	mingw64-libgomp \
 	mingw64-bzip2-static \
