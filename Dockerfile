@@ -13,6 +13,7 @@ RUN dnf install -y \
 	mingw64-gcc-gfortran \
 	mingw64-openssl-static \
 	mingw64-winpthreads-static \
+	mingw64-glew-static
 	git \
 	sshpass \
 	wine-core \
